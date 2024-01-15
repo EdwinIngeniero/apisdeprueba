@@ -1,0 +1,87 @@
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\appsettings.Development.json
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\appsettings.json
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Apis de prueba.exe
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Apis de prueba.deps.json
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Apis de prueba.runtimeconfig.json
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Apis de prueba.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Apis de prueba.pdb
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.csproj.AssemblyReference.cache
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.AssemblyInfoInputs.cache
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.AssemblyInfo.cs
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.csproj.CoreCompileInputs.cache
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.MvcApplicationPartsAssemblyInfo.cs
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.MvcApplicationPartsAssemblyInfo.cache
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\staticwebassets\msbuild.Apis de prueba.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\staticwebassets\msbuild.build.Apis de prueba.props
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Apis de prueba.props
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Apis de prueba.props
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\staticwebassets.build.json
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\staticwebassets.development.json
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\scopedcss\bundle\Apis de prueba.styles.css
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.csproj.CopyComplete
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\refint\Apis de prueba.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.pdb
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\Apis de prueba.genruntimeconfig.cache
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\obj\Debug\net6.0\ref\Apis de prueba.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Azure.Core.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Azure.Identity.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Humanizer.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.CodeDom.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Text.Json.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Edwin\4. Respaldo programacion\4. Ejercicios ASP.NET\Apis de prueba\Apis de prueba\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
