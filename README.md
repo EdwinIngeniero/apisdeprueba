@@ -38,7 +38,7 @@ Estado varchar(20) not null
 
 insert into Tareas values('1001', 'Tarea de prueba', 15/01/2024, 'Pendiente')
 
-- - - Utiliza Postman para probar la Api y verificar que la conexion don la DB esta funcionando - - -
+- Utiliza Postman para probar la Api y verificar que la conexion don la DB esta funcionando 
 
 ## Indicaciones finales
 
