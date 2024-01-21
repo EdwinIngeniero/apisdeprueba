@@ -35,10 +35,6 @@ namespace Apis_de_prueba.Controllers
                 var consulta = totaltareas
                     .Where(t => palabrasClave.All(p => t.MiTarea.ToLower().Contains(p)))
                     .ToList();
-                if (!consulta.Any())
-                {
-                    return NotFound($"No se encontraron resultados con la palabra consultada");
-                }
 
                 return Ok(consulta);
             }
